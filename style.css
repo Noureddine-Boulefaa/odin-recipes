@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color: chocolate;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+li {
+    margin-bottom: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img {
+    display: block;
+    width: 1024px;
+    margin: auto;
+
+}
